@@ -3,5 +3,3 @@ This is a project named as "FNT" shortened by "Finish Novel Together". -- Edited
 Created by BigNose-Chen.
 
 Hello World!
-
-Fuck off!
